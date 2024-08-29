@@ -13,4 +13,7 @@ Sales and Profit Trends: Displayed year-over-year with detailed monthly breakdow
 ### Sales by State:
 Top States by Sales: California ($0.34M), New York ($0.19M), Texas ($0.12M)
 This dashboard offers a comprehensive view of SuperStore's sales, facilitating improved decision-making and strategic planning through real-time data visualization and forecasting.
-![image](https://github.com/user-attachments/assets/fa1a2ed3-8893-4619-a156-5b9fa5340aef)
+![image](https://github.com/user-attachments/assets/5fca1245-c391-4111-889f-bc89dc446b53)
+![image](https://github.com/user-attachments/assets/87c71f8a-4ec5-4629-af89-6a31d49985b5)
+
+
